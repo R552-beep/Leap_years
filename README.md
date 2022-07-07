@@ -55,5 +55,5 @@ leap_year(x)
 ```
 Which ``` X ``` could be any number.
 
-## Runing Test
+## Running Tests
 Run `rspec` on your terminal 
